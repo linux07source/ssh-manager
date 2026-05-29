@@ -65,7 +65,7 @@ Disponibile per Ubuntu, Linux Mint, Arch Linux, Fedora e la maggior parte delle 
 
 ```bash
 # Installa lo snap direttamente dallo store ufficiale
-sudo snap install ssh-manager-swag
+sudo snap install ssh-manager
 
 # Avvia il programma da qualsiasi punto del terminale
 ssh-manager
