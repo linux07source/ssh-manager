@@ -12,7 +12,7 @@
 
 An elegant, lightweight, and efficient SSH Connection Manager written in C++ for Linux and macOS. Managed entirely from your terminal via an interactive CLI menu.
 
-[Scarica l'Ultima Release](https://github.com/linux07source/ssh-manager/releases/latest) · [Report Bug](https://github.com/linux07source/ssh-manager/issues) · [Request Feature](https://github.com/linux07source/ssh-manager/issues)
+[Scarica l'Ultima Release](https://github.com/linux07source/ssh-manager/releases/tag/ssh-manager-V1.0.0) · [Report Bug](https://github.com/linux07source/ssh-manager/issues) · [Request Feature](https://github.com/linux07source/ssh-manager/issues)
 
 </div>
 
@@ -24,8 +24,6 @@ An elegant, lightweight, and efficient SSH Connection Manager written in C++ for
 3. [Struttura del Codice](#-struttura-del-codice)
 4. [Metodi di Installazione](#-metodi-di-installazione)
    * [1. Via Snap (Consigliata)](#-1-via-snap-consigliata)
-   * [2. Via APT (Repository)](#-2-via-apt-repository)
-   * [3. Pacchetto Manuale (.deb)](#-3-pacchetto-manuale-deb)
 5. [Compilazione da Sorgente](#-compilazione-da-sorgente)
 6. [Licenza](#-licenza)
 
@@ -65,7 +63,7 @@ Il progetto segue il paradigma di programmazione modulare, dividendo le responsa
 Scegli il metodo di installazione che preferisci per il tuo sistema Linux.
 
 ### 🔹 1. Via Snap (Consigliata)
-Disponibile per **Lubuntu Swag Style**, Ubuntu, Linux Mint, Arch Linux, Fedora e la maggior parte delle distribuzioni. Questo metodo garantisce **aggiornamenti automatici silenti** ogni volta che viene rilasciata una nuova versione.
+Disponibile per Ubuntu, Linux Mint, Arch Linux, Fedora e la maggior parte delle distribuzioni. Questo metodo garantisce **aggiornamenti automatici silenti** ogni volta che viene rilasciata una nuova versione.
 
 ```bash
 # Installa lo snap direttamente dallo store ufficiale
