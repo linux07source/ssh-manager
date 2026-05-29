@@ -22,6 +22,7 @@ An elegant, lightweight, and efficient SSH Connection Manager written in C++ for
 4. [Installazione Rapida (.deb)](#-installazione-rapida-deb)
 5. [Guida al Packaging del .deb](#-guida-al-packaging-del-deb)
 6. [Licenza](#-licenza)
+7. [Copia il Repo](#-copia-il-repo)
 
 ---
 
@@ -36,7 +37,7 @@ Il punto di forza risiede nella **gestione persistente e sicura**: i dati non ve
 ## ✨ Funzionalità Principali
 
 * **Connessione Manuale:** Avvia sessioni SSH istantanee digitando utente e host al volo.
-* **Salvataggio Host (Alias):** Assegna nomi mnemonici ai tuoi server (es. `ServerSwag`, `RaspberryPi`).
+* **Salvataggio Host (Alias):** Assegna nomi mnemonici ai tuoi server (es. `TuoServer`, `RaspberryPi`).
 * **Storage Persistente:** Scrittura e lettura automatica nel file di sistema `~/.config/ssh-manager/host_salvati.txt`.
 * **Zero Data Loss:** Aggiornare o disinstallare il pacchetto binario `.deb` non toccherà mai i server che hai salvato nella tua Home.
 
@@ -47,6 +48,16 @@ Il punto di forza risiede nella **gestione persistente e sicura**: i dati non ve
 Distribuito sotto Licenza MIT. Vedi il file `LICENSE` per ulteriori dettagli.
 
 ---
+
+## 📄 Copia il Repo
+
+```bash
+
+```
+
+---
+
+
 ## 🛠️ Struttura del Codice
 
 Il progetto segue il paradigma di programmazione modulare, dividendo le responsabilità in tre file principali per facilitarne la manutenzione e l'estensione:
@@ -61,7 +72,7 @@ Il progetto segue il paradigma di programmazione modulare, dividendo le responsa
 
 ## 📦 Installazione Rapida (.deb)
 
-Se utilizzi **Lubuntu Swag Style**, Ubuntu o una qualsiasi distribuzione Debian-based, puoi scaricare il pacchetto precompilato dalla sezione **Releases** di GitHub e installarlo nativamente.
+Se utilizzi **Linux Mint**, Ubuntu o una qualsiasi distribuzione Debian-based, puoi scaricare il pacchetto precompilato dalla sezione **Releases** di GitHub e installarlo nativamente.
 
 ```bash
 # 1. Installa il pacchetto scaricato
