@@ -21,11 +21,10 @@ An elegant, lightweight, and efficient SSH Connection Manager written in C++ for
 ## 📋 Indice
 1. [Descrizione del Progetto](#-descrizione-del-progetto)
 2. [Funzionalità Principali](#-funzionalità-principali)
-3. [Struttura del Codice](#-struttura-del-codice)
-4. [Metodi di Installazione](#-metodi-di-installazione)
+3. [Metodi di Installazione](#-metodi-di-installazione)
    * [1. Via Snap (Consigliata)](#-1-via-snap-consigliata)
-5. [Compilazione da Sorgente](#-compilazione-da-sorgente)
-6. [Licenza](#-licenza)
+4. [Compilazione da Sorgente](#-compilazione-da-sorgente)
+5. [Licenza](#-licenza)
 
 ---
 
