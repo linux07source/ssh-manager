@@ -23,7 +23,7 @@ An elegant, lightweight, and efficient SSH Connection Manager written in C++ for
 2. [Funzionalità Principali](#-funzionalità-principali)
 3. [Metodi di Installazione](#-metodi-di-installazione)
    * [1. Via Snap (Consigliata)](#-1-via-snap-consigliata)
-4. [Licenza](#-licenza)
+4. [Licenza](https://github.com/linux07source/ssh-manager/blob/main/LICENSE)
 
 ---
 
