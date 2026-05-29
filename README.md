@@ -5,7 +5,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/linux07source/ssh-manager?style=for-the-badge&color=purple)
 ![GitHub last commit](https://img.shields.io/github/last-commit/linux07source/ssh-manager?style=for-the-badge&color=green)
 
-# 🚀 SSH Manager (Swag Style)
+# 🚀 SSH Manager
 
 An elegant, lightweight, and efficient SSH Connection Manager written in C++ for Linux and macOS. Managed entirely from your terminal via an interactive CLI menu.
 
@@ -43,6 +43,11 @@ Il punto di forza risiede nella **gestione persistente e sicura**: i dati non ve
 
 ---
 
+## 📄 Licenza
+
+Distribuito sotto Licenza MIT. Vedi il file `LICENSE` per ulteriori dettagli.
+
+---
 ## 🛠️ Struttura del Codice
 
 Il progetto segue il paradigma di programmazione modulare, dividendo le responsabilità in tre file principali per facilitarne la manutenzione e l'estensione:
