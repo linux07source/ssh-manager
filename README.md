@@ -22,10 +22,12 @@ An elegant, lightweight, and efficient SSH Connection Manager written in C++ for
 1. [Descrizione del Progetto](#-descrizione-del-progetto)
 2. [Funzionalità Principali](#-funzionalità-principali)
 3. [Struttura del Codice](#-struttura-del-codice)
-4. [Installazione (Consigliata via Snap)](#-1-installazione-consigliata-via-snap)
-5. [Installazione Manuale (.deb)](#-2-installazione-manuale-deb)
-6. [Compilazione da Sorgente](#-compilazione-da-sorgente)
-7. [Licenza](#-licenza)
+4. [Metodi di Installazione](#-metodi-di-installazione)
+   * [1. Via Snap (Consigliata)](#-1-via-snap-consigliata)
+   * [2. Via APT (Repository)](#-2-via-apt-repository)
+   * [3. Pacchetto Manuale (.deb)](#-3-pacchetto-manuale-deb)
+5. [Compilazione da Sorgente](#-compilazione-da-sorgente)
+6. [Licenza](#-licenza)
 
 ---
 
@@ -42,7 +44,7 @@ Il punto di forza risiede nella **gestione persistente e sicura**: i dati non ve
 * **Connessione Manuale:** Avvia sessioni SSH istantanee digitando utente e host al volo.
 * **Salvataggio Host (Alias):** Assegna nomi mnemonici ai tuoi server (es. `TuoServer`, `RaspberryPi`).
 * **Storage Persistente:** Scrittura e lettura automatica nel file di sistema `~/.config/ssh-manager/host_salvati.txt`.
-* **Zero Data Loss:** Aggiornare o disinstallare l'applicazione (via Snap o `.deb`) non toccherà mai i server che hai salvato nella tua Home.
+* **Zero Data Loss:** Aggiornare o disinstallare l'applicazione (via Snap, APT o `.deb`) non toccherà mai i server che hai salvato nella tua Home.
 
 ---
 
@@ -62,7 +64,7 @@ Il progetto segue il paradigma di programmazione modulare, dividendo le responsa
 
 Scegli il metodo di installazione che preferisci per il tuo sistema Linux.
 
-### 🔹 1. Installazione via Snap (Consigliata)
+### 🔹 1. Via Snap (Consigliata)
 Disponibile per **Lubuntu Swag Style**, Ubuntu, Linux Mint, Arch Linux, Fedora e la maggior parte delle distribuzioni. Questo metodo garantisce **aggiornamenti automatici silenti** ogni volta che viene rilasciata una nuova versione.
 
 ```bash
