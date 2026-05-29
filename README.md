@@ -52,7 +52,7 @@ Distribuito sotto Licenza MIT. Vedi il file `LICENSE` per ulteriori dettagli.
 ## 📄 Copia il Repo
 
 ```bash
-
+git clone https://github.com/linux07source/ssh-manager.git
 ```
 
 ---
