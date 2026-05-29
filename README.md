@@ -20,9 +20,8 @@ An elegant, lightweight, and efficient SSH Connection Manager written in C++ for
 2. [Funzionalità Principali](#-funzionalità-principali)
 3. [Struttura del Codice](#-struttura-del-codice)
 4. [Installazione Rapida (.deb)](#-installazione-rapida-deb)
-5. [Compilazione Manuale](#-compilazione-manuale)
-6. [Guida al Packaging del .deb](#-guida-al-packaging-del-deb)
-7. [Licenza](#-licenza)
+5. [Guida al Packaging del .deb](#-guida-al-packaging-del-deb)
+6. [Licenza](#-licenza)
 
 ---
 
